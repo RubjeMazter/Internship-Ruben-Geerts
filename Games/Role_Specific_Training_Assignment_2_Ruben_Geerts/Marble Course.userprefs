@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpringController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnterFinish.cs" Line="23" Column="38" />
+      <File FileName="Assets\Scripts\BlockCollider.cs" Line="17" Column="10" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="16" Column="85" />
+      <File FileName="Assets\Scripts\ColliderEnter.cs" Line="13" Column="91" />
+      <File FileName="Assets\Scripts\LightSwitch.cs" Line="17" Column="36" />
+      <File FileName="Assets\Scripts\LoadByIndex.cs" Line="8" Column="55" />
+      <File FileName="Assets\Scripts\QuitOnClick.cs" Line="8" Column="70" />
+      <File FileName="Assets\Scripts\SpringController.cs" Line="13" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
